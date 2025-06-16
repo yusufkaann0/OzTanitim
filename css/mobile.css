@@ -1,0 +1,117 @@
+#navbar{
+
+    overflow: hidden;
+
+    height: 90px;
+
+    padding-top: 0.5rem;
+
+    padding-bottom: 0.5rem;
+
+    flex-direction: column;
+
+    font-size: 10px;
+
+}
+
+#training .items{
+
+    flex-direction: column;
+
+}
+
+#training .items .item{
+
+    width: 100%;
+
+}
+
+.courses .course{
+
+    flex-direction: column;
+
+}
+
+.courses .course .course-image{
+
+    align-self: center;
+
+    padding-bottom: 1rem;
+
+}
+
+.courses .course .course-info{
+
+    text-align: center;
+
+    line-height: 1rem;
+
+}
+
+.courses .course .title{
+
+    text-align: center;
+
+    line-height: 1rem;
+
+}
+
+.courses .course .course-image span{
+
+    top: 10px;
+
+    left: 5%;
+
+}
+
+#contact{
+
+    color: #fff;
+
+    padding:1rem;
+
+}
+
+#contact .contact-form{
+
+    width: 100%;
+
+    margin-left: auto;
+
+    margin-right: auto;
+
+    display: flex;
+
+    flex-direction: column;
+
+}
+
+ 
+
+#contact .contact-form ul{
+
+    list-style-type: none;
+
+    display: flex;
+
+    margin-top: 1rem;
+
+    padding-right: 10px;    
+
+}
+
+ 
+
+#contact .contact-form ul li a{
+
+    padding-left: 0%;    
+
+    margin-right: 180%;
+
+    margin-left: 25%;
+
+    align-self: center;
+
+    font-size: 2rem;
+
+}

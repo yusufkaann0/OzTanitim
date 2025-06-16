@@ -1,0 +1,47 @@
+#navbar{
+
+    font-size: 12px;
+
+}
+
+#contact{
+
+    color: #fff;
+
+    padding:1rem;
+
+}
+
+#contact .contact-form{
+
+     max-width: 700pxm;
+
+     margin-left: auto;
+
+     margin-right: auto;
+
+     display: flex;
+
+     flex-direction: column;
+
+}
+
+#contact .contact-form ul{
+
+     list-style-type: none;
+
+     margin-top: 1rem;
+
+     display: flex;
+
+     align-self: center;
+
+}
+
+#contact .contact-form ul li a{
+
+     padding: 1rem;
+
+     font-size: 2rem;
+
+}
